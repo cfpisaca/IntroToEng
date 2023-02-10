@@ -1,0 +1,4 @@
+some
+set of strings
+ending up as lines
+in a file
